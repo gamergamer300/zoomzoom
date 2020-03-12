@@ -35,6 +35,8 @@ public class ACTIONS extends JFrame implements ActionListener
         box.toFront();
         box.setVisible(true);
         box.setTitle("Hello");
+        
+        //dialog box, get in
 
         panel = new JPanel();
         panel.setPreferredSize(new Dimension(600,600));
